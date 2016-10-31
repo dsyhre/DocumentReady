@@ -1,0 +1,2 @@
+# DocumentReady
+Well Commented way to maintain your document ready using jQuery or JavaScript.  This will allow the $(document).ready function to also be the window.document.addeventListenter function as well as provides many useful helper functions and regular expression variables.  Redifining the window, document, and navigator takes place to ensure our document ready actual loads code when the document is ready :)
